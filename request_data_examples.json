@@ -1,0 +1,23 @@
+{
+  "FIEBRE":"1.0",
+  "TOS":"1.0",
+  "ODINOFAGIA":"0.0",
+  "DISNEA":"0.0",
+  "IRRITABILIDAD":"0.0",
+  "DIARREA":"0.0",
+  "DOLOR_TORACICO":"1.0",
+  "ESCALOFRIOS":"1.0",
+  "CEFALEA":"1.0",
+  "MIALGIAS":"1.0",
+  "ARTRALGIAS":"1.0",
+  "ATQ_GENERAL":"1.0",
+  "RINORREA":"0.0",
+  "POLIPNEA":"0.0",
+  "VOMITO":"0.0",
+  "DOLOR_ABDOMINAL":"0.0",
+  "CONJUNTIVITIS":"1.0",
+  "CIANOSIS":"0.0",
+  "INICIO_SUBITO":"0.0",
+  "CONTACTO_OTROS":"1.0",
+  "RESULTADO":"0.0"
+}

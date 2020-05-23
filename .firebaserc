@@ -1,6 +1,0 @@
-{
-  "projects": {
-    "default": "cov-screening",
-    "staging": "cov-screening-stage"
-  }
-}
