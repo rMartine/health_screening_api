@@ -38,6 +38,6 @@ def test_api(feature_names, dist_dict, url='http://0.0.0.0:5000/api'):
 if __name__ == '__main__':
     dist_dict = get_feature_dists()
     ### Run locally outside of docker
-    url = 'http://0.0.0.0:5000/api'
+    url = 'http://0.0.0.0:8721/api'
     for _ in range(1):
         resp = test_api(FEATURES, dist_dict, url=url)
